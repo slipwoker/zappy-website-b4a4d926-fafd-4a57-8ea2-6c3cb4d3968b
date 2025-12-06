@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://johnny-barber-shop-b4a4d926.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
